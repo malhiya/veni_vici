@@ -41,8 +41,7 @@ GIF created with LiceCap
 [peek](https://github.com/phw/peek) for Linux. -->
 
 ## Notes
-
-Describe any challenges encountered while building the app.
+I was having trouble with my onClick to implement the handleBanAttribute function. I asked chatGPT and it showed me the correct syntax for it. Another I was having was showing the units when the attributes were on the Ban Attributes list. I asked chatGPT and it recommended adding another parameter in the handleRemoveAttribute function.
 
 ## License
 
